@@ -14,9 +14,18 @@ export const Textarea = styled.textarea`
   margin-bottom: 10px;
 `;
 
-export const Button = styled.button`
+export const CheckBtn = styled.button`
   padding: 8px 16px;
+  margin-bottom: 10px;
   background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+`;
+
+export const ClearBtn = styled.button`
+  padding: 8px 16px;
+  background-color: green;
   color: white;
   border: none;
   cursor: pointer;
