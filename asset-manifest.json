@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/PortaOne-Test/static/css/main.7acaea2f.css",
-    "main.js": "/PortaOne-Test/static/js/main.d16a7dfb.js",
+    "main.js": "/PortaOne-Test/static/js/main.95f360ce.js",
     "index.html": "/PortaOne-Test/index.html",
     "main.7acaea2f.css.map": "/PortaOne-Test/static/css/main.7acaea2f.css.map",
-    "main.d16a7dfb.js.map": "/PortaOne-Test/static/js/main.d16a7dfb.js.map"
+    "main.95f360ce.js.map": "/PortaOne-Test/static/js/main.95f360ce.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.d16a7dfb.js"
+    "static/js/main.95f360ce.js"
   ]
 }
